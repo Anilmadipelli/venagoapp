@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "375670819778",
+    "project_id": "venagoapp",
+    "storage_bucket": "venagoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375670819778:android:b7bce3c792c4c41c5f645b",
+        "android_client_info": {
+          "package_name": "com.example.venagoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375670819778-gpl04cvi9dmhmgv1puts2bkrrrhc3fiq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.venagoapp",
+            "certificate_hash": "a5184fd1250581c72d2b24e912e2b03d0755ca73"
+          }
+        },
+        {
+          "client_id": "375670819778-s9ur3smcnnm8nfk94bcrhaim9j3gk5rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyH6mTqOkLnT9gIalmf21GMDtnKXRlzzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375670819778-s9ur3smcnnm8nfk94bcrhaim9j3gk5rh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
